@@ -1,4 +1,4 @@
-package ru.shishkin.newYearsRainGame;
+package ru.shishkin.newyearsraingame;
 
 import java.awt.Image;
 import java.awt.event.ActionEvent;
@@ -11,7 +11,6 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 public class Panel extends JPanel {
-
     private Image shapka;
     private Image fon;
     private Image end_game;
@@ -106,6 +105,7 @@ public class Panel extends JPanel {
                 }
             }
         }
+
         gr.setColor(Color.white);
         gr.drawString("Game score: " + schet, 650, 10);
         gr.drawString("Health point: " + hp, 650, 30);

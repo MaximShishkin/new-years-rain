@@ -1,11 +1,10 @@
-package ru.shishkin.newYearsRainGame;
+package ru.shishkin.newyearsraingame;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import javax.swing.JFrame;
 
 public class Frame extends JFrame {
-
     private Panel game_Pole;
 
     private class MyKey implements KeyListener {

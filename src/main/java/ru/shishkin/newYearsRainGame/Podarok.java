@@ -1,4 +1,4 @@
-package ru.shishkin.newYearsRainGame;
+package ru.shishkin.newyearsraingame;
 
 import java.awt.Image;
 import java.awt.event.ActionEvent;
@@ -7,12 +7,12 @@ import javax.swing.Timer;
 import java.awt.Graphics;
 
 public class Podarok {
-    Image img;
-    int x, y;
-    Boolean active_img;
-    Timer TimerUpdate;
-    int slognost;
-    int updatespeed = 0;
+    protected Image img;
+    protected int x, y;
+    protected Boolean active_img;
+    protected Timer TimerUpdate;
+    protected int slognost;
+    protected int updatespeed = 0;
 
     Podarok(Image img, int slognost) {
         TimerUpdate = new Timer(500, new ActionListener() {

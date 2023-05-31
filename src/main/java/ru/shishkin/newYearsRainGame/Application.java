@@ -1,4 +1,4 @@
-package ru.shishkin.newYearsRainGame;
+package ru.shishkin.newyearsraingame;
 
 import javax.swing.JOptionPane;
 

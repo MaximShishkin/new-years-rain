@@ -26,11 +26,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.shishkin.newYearsRainGame.Application" />
+      <option name="MAIN_CLASS_NAME" value="ru.shishkin.newyearsraingame.Application" />
       <module name="NewYearsRainGame" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.shishkin.newYearsRainGame.*" />
+          <option name="PATTERN" value="ru.shishkin.newyearsraingame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
