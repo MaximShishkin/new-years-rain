@@ -1,4 +1,4 @@
-package ru.shishkin.newyearsraingame;
+package ru.shishkin.maxim.newYearsRain;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;

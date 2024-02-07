@@ -1,8 +1,8 @@
-package ru.shishkin.newyearsraingame;
+package ru.shishkin.maxim.newYearsRain;
 
 import javax.swing.JOptionPane;
 
-public class Application {
+public class App {
     public static void main(String[] args) {
         String rez = JOptionPane.showInputDialog(null, "Enter difficulty from 1 to 9:", "Enter difficulty", 3);
         int slognost = rez.charAt(0) - '0';
