@@ -4,61 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d5d3ffa-6991-4360-b279-3018f496b1a2" name="Changes" comment="" />
+    <list default="true" id="f493b344-a7ab-4c0a-a0a5-6cb074a3cc58" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="25rj27K5lwTA4zBmfGnP070cYjx" />
+  <component name="ProjectId" id="2eYf61aXnAUtlzuqfFtnzERBvxO" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Maven.new-years-rain [clean].executor": "Run",
+    "Maven.new-years-rain [install].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin/Desktop/gitt/new-years-rain",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/t/new-years-rain/new-years-rain/src/main/resources",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Files\MakShish\Desktop\git\NewYearsRainGame\src\main\resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\t\new-years-rain\new-years-rain\src\main\resources" />
+      <recent name="C:\Users\Admin\Desktop\t\new-years-rain\new-years-rain\src\main\java\ru\shishkin\maxim" />
     </key>
-  </component>
-  <component name="RunManager" selected="Application.ru.shishkin.maxim.newYearsRain.App">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.shishkin.newyearsraingame.App" />
-      <module name="NewYearsRain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.shishkin.newyearsraingame.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ru.shishkin.maxim.newYearsRain.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.shishkin.maxim.newYearsRain.App" />
-      <module name="NewYearsRain" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.ru.shishkin.maxim.newYearsRain.App" />
-        <item itemvalue="Application.Application" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
 </project>
